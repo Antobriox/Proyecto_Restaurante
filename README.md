@@ -1,16 +1,4 @@
-# hdt_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aqui esta mi avance en el proyecto, lo estuve actualizando por que tuve problemas en el pc:
+Hice una ventana de busqueda:
+![image](https://github.com/Antobriox/Proyecto_Restaurante/assets/115562631/6efb8b38-6823-4392-8595-bf6599683e06)
+![image](https://github.com/Antobriox/Proyecto_Restaurante/assets/115562631/1489423c-b5d1-41ad-96c9-520b75cf9033)
